@@ -19,3 +19,5 @@ Nu skriver vi rader som bara comittas lokalt.
 Två rader, närmare bestämt.
 
 En ny lokal rad.
+
+Ännu en lokal rad
