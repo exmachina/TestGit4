@@ -21,3 +21,5 @@ Två rader, närmare bestämt.
 En ny lokal rad.
 
 Ännu en lokal rad
+
+En sista lokal rad och en push
