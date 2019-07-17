@@ -23,3 +23,5 @@ En ny lokal rad.
 Ännu en lokal rad
 
 En sista lokal rad och en push
+
+En sista lokal rad och en push to remote
