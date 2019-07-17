@@ -14,3 +14,6 @@ Jag lägger till en rad i nya branch Ebbas_birthday.
 
 17 juli: Nu lägger vi till rader, 
 flera rader.
+
+Nu skriver vi rader som bara comittas lokalt.
+Två rader, närmare bestämt.
