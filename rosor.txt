@@ -1,4 +1,5 @@
 
 Vi ska lägga till lite text om hur man odlar rosor. 
 Man sår frön i krukor och ställer dessa i vindstilla söderläge.
-Sen när de har börjat gro så ger man rosorna näring och ljus
+Sen när de har börjat gro så ger man rosorna näring och ljus.
+Lägger till en fånig rad.
